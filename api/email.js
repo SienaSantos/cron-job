@@ -1,4 +1,4 @@
-var sendgrid = require('sendgrid')('sienasantos', 'password123');
+var sendgrid = require('sendgrid')('123', '123');
 
 module.exports = {
 
